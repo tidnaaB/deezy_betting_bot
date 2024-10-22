@@ -22,7 +22,7 @@ A simple Discord bot that allows users to create and participate in custom bets.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/discord-betting-bot.git
+git clone https://github.com/tidnaaB/discord-betting-bot.git
 cd discord-betting-bot
 ```
 
@@ -39,7 +39,7 @@ pip install discord.py
 Create a `.env` file and add your bot token:
 
 ```env
-DISCORD_BOT_TOKEN=your-bot-token-here
+DISCORD_TOKEN=your-bot-token-here
 ```
 
 Alternatively, you can directly insert your bot token in the `bot.run()` line in the script (not recommended for production).
